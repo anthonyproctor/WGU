@@ -1,0 +1,5 @@
+# Foundation of Process Selection
+
+- Process selection - is determining the most appropriate method of completing a task. It is a series of decisions that include technical or engineering issues and volume or scale issues. The technical or engineering issues include the basic method used to produce a service or good. For example, deciding to remove a gall bladder using laparoscopic surgery versus traditional method is a technical decision made by physicians.
+- Economies of scale - is the ability to produce more goods at a lower costs by better utilizing the same fixed costs. There is a most efficient size for a facility; building sufficient sales and production volume is necessary to minimize the fixed costs of an organization.
+- Economics of scope - involves building the volume necessary to cover fixed costs by producing a variety of products on the same equipment. This requires flexibility in the organization.
